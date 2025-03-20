@@ -1,1 +1,18 @@
-# tailwind-app
+# Clipboard Website
+https://tailwind-website-loopstudios.vercel.app/
+
+## Usage
+
+Install dependencies
+
+```
+npm Install
+```
+
+Run Tailwind CLI
+
+```
+npm run watch
+```
+
+![Alt text](images/loopstudios.png)
